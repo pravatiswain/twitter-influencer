@@ -8,7 +8,7 @@ Second capstone project for Springboard: Detecting influencer on twitter across 
      
     * [Project Proposal](https://github.com/pravatiswain/twitter-influencer/blob/main/Reports/Capstone%202_%20Project%20Proposal.pdf)
     
-    * [Milestone 1 Report](https://github.com/pravatiswain/twitter-influencer/blob/main/Reports/Milestone%20Report%201_%20Capstone%202.pdf)
+    * [Milestone Report 1](https://github.com/pravatiswain/twitter-influencer/blob/main/Reports/Milestone%20Report%201_%20Capstone%202.pdf)
     
     Report containing findinding from the Exploratory Data Analysis
     * Milestone Report 2
