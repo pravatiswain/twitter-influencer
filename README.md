@@ -20,7 +20,7 @@ Second capstone project for Springboard: Detecting influencer on twitter across 
       Project presentation slides
 
 2. Notebooks
-    * [Codes for Twitter Data Scraping] (https://github.com/pravatiswain/twitter-influencer/blob/main/Notebooks/Capstone%202%20-%20Twitter%20Data%20Scraping%20(Fashion%20Tweets).ipynb)
+    * [Codes for Twitter Data Scraping](https://github.com/pravatiswain/twitter-influencer/blob/main/Notebooks/Capstone%202%20-%20Twitter%20Data%20Scraping%20(Fashion%20Tweets).ipynb)
 
     * [EDA](https://github.com/pravatiswain/twitter-influencer/blob/main/Notebooks/EDA-%20Capstone%202%20(final).ipynb)
     
