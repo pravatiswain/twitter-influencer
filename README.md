@@ -15,7 +15,7 @@ Second capstone project for Springboard: Detecting influencer on twitter across 
     
     * Final Report
     
-    * [Presentation Slides Deck]()
+    * [Presentation Slides Deck](https://github.com/pravatiswain/twitter-influencer/blob/main/Reports/Capstone%202%20slides_pdf.pdf)
     
       Project presentation slides
 
